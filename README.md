@@ -65,7 +65,9 @@ python main.py
 
 🕹️ Controls:
 ➡Arrow Keys: Move the snake.
+
 ➡Spacebar / ESC: Pause or unpause the environment.
+
 ➡Enter: Start game / Restart from the Game Over screen.
 
 
