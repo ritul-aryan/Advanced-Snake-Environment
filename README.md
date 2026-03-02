@@ -72,7 +72,10 @@ python main.py
 ➡Enter: Start game / Restart from the Game Over screen.
 
 
-🧠 Future Scope
-Because the rendering layer is strictly separated from the core grid logic, this environment is primed for AI integration:
-Algorithmic Solvers: Implementing A* (A-Star) or Hamiltonian Cycle pathfinding to create a mathematically perfect auto-pilot mode.
-Reinforcement Learning: Passing the grid state as a matrix to a Deep Q-Network (DQN) to train an autonomous agent to play the game from scratch.
+🧠 Future Scope:
+
+•Because the rendering layer is strictly separated from the core grid logic, this environment is primed for AI integration:
+
+•Algorithmic Solvers: Implementing A* (A-Star) or Hamiltonian Cycle pathfinding to create a mathematically perfect auto-pilot mode.
+
+•Reinforcement Learning: Passing the grid state as a matrix to a Deep Q-Network (DQN) to train an autonomous agent to play the game from scratch.
