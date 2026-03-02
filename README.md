@@ -36,38 +36,36 @@ The repository follows an industry-standard modular structure:
 └── requirements.txt     # Dependency list
 
 
-🛠️ Tech Stack
-Language: Python 3.x
+### 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **Library:** Pygame >= 2.0.0
+* **Data Storage:** JSON (Native)
 
-Library: Pygame >= 2.0.0
+---
 
-Data Storage: JSON (Native)
+### 🎮 How to Play / Run Locally
 
-🎮 How to Play / Run Locally
-Clone the repository:
-
-Bash
+**1. Clone the repository:**
+```bash
 git clone [https://github.com/ritul-aryan/Advanced-Snake-Environment.git](https://github.com/ritul-aryan/Advanced-Snake-Environment.git)
 cd Advanced-Snake-Environment
-Install the dependencies:
 
-Bash
+**2. Install the dependencies:**
+```bash
 pip install -r requirements.txt
-Run the game engine:
 
-Bash
+**3. Run the game engine:**
+```bash
 python main.py
-Controls:
 
-Arrow Keys: Move the snake.
 
-Spacebar / ESC: Pause or unpause the environment.
+🕹️ Controls:
+➡Arrow Keys: Move the snake.
+➡Spacebar / ESC: Pause or unpause the environment.
+➡Enter: Start game / Restart from the Game Over screen.
 
-Enter: Start game / Restart from Game Over screen.
 
 🧠 Future Scope
-Because the rendering layer is strictly separated from the grid logic, this environment is primed for AI integration:
-
+Because the rendering layer is strictly separated from the core grid logic, this environment is primed for AI integration:
 Algorithmic Solvers: Implementing A* (A-Star) or Hamiltonian Cycle pathfinding to create a mathematically perfect auto-pilot mode.
-
 Reinforcement Learning: Passing the grid state as a matrix to a Deep Q-Network (DQN) to train an autonomous agent to play the game from scratch.
