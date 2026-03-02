@@ -63,7 +63,7 @@ python main.py
 ```
 
 
-🕹️ Controls:
+### 🕹️ Controls:
 
 ➡Arrow Keys: Move the snake.
 
@@ -72,7 +72,7 @@ python main.py
 ➡Enter: Start game / Restart from the Game Over screen.
 
 
-🧠 Future Scope:
+## 🧠 Future Scope:
 
 •Because the rendering layer is strictly separated from the core grid logic, this environment is primed for AI integration:
 
