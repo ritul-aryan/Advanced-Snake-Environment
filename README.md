@@ -34,6 +34,7 @@ The repository follows an industry-standard modular structure:
 │   └── settings.py      # Centralized configurations and hyper-parameters
 ├── main.py              # Application entry point
 └── requirements.txt     # Dependency list
+```
 
 
 ### 🛠️ Tech Stack
@@ -49,14 +50,17 @@ The repository follows an industry-standard modular structure:
 ```bash
 git clone [https://github.com/ritul-aryan/Advanced-Snake-Environment.git](https://github.com/ritul-aryan/Advanced-Snake-Environment.git)
 cd Advanced-Snake-Environment
+```
 
 **2. Install the dependencies:**
 ```bash
 pip install -r requirements.txt
+```
 
 **3. Run the game engine:**
 ```bash
 python main.py
+```
 
 
 🕹️ Controls:
