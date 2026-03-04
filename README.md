@@ -48,7 +48,7 @@ The repository follows an industry-standard modular structure:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/ritul-aryan/Advanced-Snake-Environment.git](https://github.com/ritul-aryan/Advanced-Snake-Environment.git)
+git clone https://github.com/ritul-aryan/Advanced-Snake-Environment.git
 cd Advanced-Snake-Environment
 ```
 
